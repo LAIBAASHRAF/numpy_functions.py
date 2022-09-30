@@ -1,7 +1,7 @@
 # NUMPY BUILT_IN FUNCTIONS
 
 import numpy as np
-from numpy import ndarray
+
 
 # (1) "zeros() function" is used to create  an  array  with 0's
 a = np.zeros(5)  # one Dimensional Array
